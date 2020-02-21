@@ -5,7 +5,6 @@ import Cards from "./Cards";
 import styled from "styled-components";
 
 
-
 const Divstyle = styled.div`
   background: white;
   width: 500px;
@@ -13,7 +12,6 @@ const Divstyle = styled.div`
   padding: 10px;
   border: 3px solid red;
 `;
-
 
 
 export default function Container() {
